@@ -1,0 +1,180 @@
+{
+  "service": [
+    {
+      "title": "Offline Method",
+      "imageUrl": "assets/images/online1.png"
+    },
+    {
+      "title": "Online Method",
+      "imageUrl": "assets/images/offline1.png"
+    },
+    {
+      "title": "Hybrid Method",
+      "imageUrl": "assets/images/hybrid1.png"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "asd1293uasdads1",
+      "title": "Mathematic for advance",
+      "imageUrl": "assets/images/math-advance.jpg",
+      "type": "High School",
+      "responsibility": ["Offline Method", "Online Method"],
+      "price": "Rp 3.000.000 / Month",
+      "text": "This class for high school level who want to improve their math skill for any purpose. In this class you will learn more advance material like calculus, linear algebra, graph, matrix and much more."
+    },
+    {
+      "id": "asd1293uhjkhkjh2",
+      "title": "Science for Middle School",
+      "imageUrl": "assets/images/science.jpg",
+      "type": "Middle School",
+      "responsibility": ["Offline Method", "Hybrid Method"],
+      "price": "Rp 2.500.000 / Month",
+      "text": "This class for middle school level who want to improve their science skill for any purpose. In this class you will learn more advance material like biology, phisic, chemic and much more."
+    },
+    {
+      "id": "asd1293uvbvcbbd3",
+      "title": "Reading and Writing",
+      "imageUrl": "assets/images/writing-elementary.jpg",
+      "type": "Elementary School",
+      "responsibility": ["Offline Method", "Hybrid Method"],
+      "price": "Rp 500.000 / Month",
+      "text": "This class for elementary school level who want to improve their reading and writing skill for any purpose. In this class you will learn more advance material like fast reading, good writing and much more."
+    },
+    {
+      "id": "asd1293ufgdfgs4",
+      "title": "Economy",
+      "imageUrl": "assets/images/economy.jpg",
+      "type": "High School",
+      "responsibility": ["Offline Method", "Online Method"],
+      "price": "Rp 2.000.000 / Month",
+      "text": "This class for high school level who want to improve their economy skill for any purpose. In this class you will learn material like money management, stock and much more."
+    },
+    {
+      "id": "asd1293ulskmnb5",
+      "title": "High School Entrance Exam",
+      "imageUrl": "assets/images/exam.jpg",
+      "type": "Middle School",
+      "responsibility": ["Offline Method", "Online Method", "Hybrid Method"],
+      "price": "Rp 3.500.000 / Month",
+      "text": "This class for middle school level who want to improve their skill for exam. In this class you will learn more advance material like math, language, science and much more."
+    },
+    {
+      "id": "asd1293ulkmnbj6",
+      "title": "Mathematic for Kids",
+      "imageUrl": "assets/images/math-kid.jpg",
+      "type": "Elementary School",
+      "responsibility": ["Offline Method", "Hybrid Method"],
+      "price": "Rp 1.500.000 / Month",
+      "text": "This class for elementary school level who want to improve their math skill for any purpose. In this class you will learn material like counting, assumming, dividing and much more."
+    }
+  ],
+  "advantage": [
+    [
+      {
+        "title": "Interactif Learning",
+        "description": "We make our program more interactif between teacher-students.",
+        "imageUrl": "assets/images/Communicative.png"
+      },
+      {
+        "title": "Study from anywhere",
+        "description": "Student could learning from any platform and any method",
+        "imageUrl": "assets/images/Management.png"
+      }
+    ],
+    [
+      {
+        "title": "Collaboratif​",
+        "description": "Our program priority for students is teamwork and help each other",
+        "imageUrl": "assets/images/Collaborative.png"
+      },
+      {
+        "title": "Fun Learning",
+        "description": "We maka our learning more fun and boring less.",
+        "imageUrl": "assets/images/Favourite.png"
+      }
+    ]
+  ],
+  "testimonial": [
+    {
+      "name": "Agustina",
+      "company": "Mathematic for advance",
+      "testimoni": "Rumah School make mathematic more simple and fun",
+      "imageUrl": "assets/images/Agustina.jpg"
+    },
+    {
+      "name": "Muhammad Iqbal",
+      "company": "High School Entrance Exam",
+      "testimoni": "I've finally got dream school, Rumah School was awesome",
+      "imageUrl": "assets/images/Iqbal.jpg"
+    },
+    {
+      "name": "Roy dibiroy",
+      "company": "Reading and writing",
+      "testimoni": "My son was very happy join rumah school, he can read and write very well.",
+      "imageUrl": "assets/images/Roy.jpg"
+    }
+  ],
+  "team": [
+    {
+      "name": "Kasuma Indra",
+      "position": "CEO",
+      "imageUrl": "assets/images/CEO.jpg"
+    },
+    {
+      "name": "Nursila",
+      "position": "HRD",
+      "imageUrl": "assets/images/HRD.jpg"
+    },
+    {
+      "name": "Sara silalahi",
+      "position": "Teacher",
+      "imageUrl": "assets/images/Teacher1.jpg"
+    },
+    {
+      "name": "Syamsul Aidi",
+      "position": "Teacher",
+      "imageUrl": "assets/images/Teacher2.jpg"
+    },
+    {
+      "name": "Raja Ilham",
+      "position": "Teacher",
+      "imageUrl": "assets/images/Teacher3.jpg"
+    },
+    {
+      "name": "Zedri Romanda",
+      "position": "Teacher",
+      "imageUrl": "assets/images/Teacher4.jpg"
+    },
+    {
+      "name": "Ibnu Afdhal",
+      "position": "Teacher",
+      "imageUrl": "assets/images/Teacher5.jpg"
+    },
+    {
+      "name": "Habibi Rashid",
+      "position": "Teacher",
+      "imageUrl": "assets/images/Teacher6.jpg"
+    },
+    {
+      "name": "Muhammad Khairunnas",
+      "position": "Teacher",
+      "imageUrl": "assets/images/Teacher7.jpg"
+    },
+    {
+      "name": "Ihsan kholil",
+      "position": "Teacher",
+      "imageUrl": "assets/images/Teacher8.jpg"
+    },
+    {
+      "name": "Fary sihombing",
+      "position": "Teacher",
+      "imageUrl": "assets/images/Teacher10.jpg"
+    },
+    {
+      "name": "Nazra Nurlaila",
+      "position": "Teacher",
+      "imageUrl": "assets/images/Teacher9.jpg"
+    }
+  ]
+}
